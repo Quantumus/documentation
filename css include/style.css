@@ -1,0 +1,52 @@
+/* set box */
+body{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: flex;
+    box-shadow: 1px 1px 5px black;
+    justify-content: space-between;
+}
+.option{
+    margin: 15px;
+}
+/* set class */
+/* nav */
+.nav_a>img{
+    width: 20px;
+    height: 20px;
+}
+.nav_li{
+    list-style: none;
+}
+.nav_ul{
+    padding: 0;
+    margin: 0;
+}
+/* .nav_a{
+
+} */
+/* logo */
+.logo_a{
+    color: gray;
+    text-decoration: none;
+    font-size: 20px;
+}
+.logo_p{
+    margin: 0;
+    padding: 0;
+}
+.logo_p::first-letter{
+    border: 2px solid black;
+    padding: 2px;
+}
+/* usr */
+.usr_a{
+    color: gray;
+    text-decoration: none;
+}
+.usr_img{
+    width: 25px;
+    height: 25px;   
+}
