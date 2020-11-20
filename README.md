@@ -5,12 +5,11 @@
 ---
 SO THE UPDATE IS CONTAINUE TIL NOW SINCE:
 
-+ [NOV/19/2020] ADD HTML AN CSS PLUS NO README [THIS IMAGE](https://quantumus.github.io/documentation/proof/pages20-11-2020.png)
----
-+ [NOV/19/2020] ADD README TO THIE REPO AND CONFIG CSS    SUPPORT AND ADD SOME PICTURE PROOF AND HEADER BRANCH [THIS IMAGE](https://quantumus.github.io/documentation/proof/repo20-11-2020.png)
----
-+ [MMM/DD/YYYY] next added.
++ [NOV/19/2020] ADD HTML AN CSS PLUS NO README [THIS IMAGE](https://quantumus.github.io/documentation/proof/pages19-11-2020.png)
++ [NOV/19/2020] ADD README TO THIE REPO AND CONFIG CSS    SUPPORT AND ADD SOME PICTURE PROOF AND HEADER BRANCH [THIS IMAGE](https://quantumus.github.io/documentation/proof/repo19-11-2020.png)
++ [NOV/20/2020] REWORD README AND ADD CSS [THIS IMAGE](https://quantumus.github.io/documentation/proof/repo20-11-2020.png)
 
++ [MMM/DD/YYYY] next added.
 
 # THANK FOR TESTING !
 ### IF HAD SOME BUG PLEASE TYPE THE ISSUE!
